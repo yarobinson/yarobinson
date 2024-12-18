@@ -6,6 +6,6 @@
 
 ⚡ Passionate about turning data insights into clear and compelling narratives and visualizations for technical and non-technical audiences, driving actionable data-driven outcomes. 
 
-🌱 Currently, I am furthering my skills in data science through a certificate at the University of Toronto. 
+🌱 I've recently completed a certification in Data Science at the University of Toronto.
 
 🙌🏾 If you're interested in data analytics, marketing or tech, let's connect on [LinkedIn](https://www.linkedin.com/in/yasrobinson/)!
