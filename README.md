@@ -1,8 +1,8 @@
 ## About Me
 
-👋 Hi there! I'm Yasmine Robinson, a Data Analyst based in Ottawa 🇨🇦 with 3+ years of experience transforming complex data into actionable insights for technical and non-technical stakeholders in the telecommunications and government sectors. 
+👋 Hi there! I'm Yasmine Robinson, a Data Analyst based in Ottawa 🇨🇦 with 2+ years of experience transforming data into actionable insights for technical and non-technical stakeholders in the telecommunications and government sectors. 
 
-🔭 I am skilled in supporting data-driven marketing and business strategies through data analysis, visualization and insights reporting. 
+🔭 I am skilled in supporting data-driven business and marketing strategies through data analysis, visualization and insights reporting. 
 
 ⚡ Passionate about turning data insights into clear and compelling narratives and visualizations for technical and non-technical audiences, driving actionable data-driven outcomes. 
 
